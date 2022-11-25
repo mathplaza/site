@@ -1,1 +1,10 @@
+*{margin: 0;
+padding: 0;
+}
+
+#cabecalho {
+    height: 100px;
+    background-color: rgb(212, 212, 192);
+    margin: 0 auto;
+}
 
